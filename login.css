@@ -1,0 +1,172 @@
+body {
+	margin: 0 auto;
+	background-color: white;
+}
+
+header {
+	width: 100%;
+	height: 80px;
+	background-color: white;
+	box-shadow: 2px 2px 4px lightgray;
+	text-align: center;
+}
+
+header img {
+	margin-top: 15px;
+	height: 50px;
+	padding-left: 40px;
+}
+
+.to_login_field {
+	float: right;
+	margin-top: 50px;
+	margin-right: 20px;
+	font-size: 14px;
+}
+
+main {
+	clear: right;
+	width: 100%;
+}
+
+form {
+	margin: 0 auto;
+	width: 423px;
+	height: 376px;
+	border: 2px solid lightgray;
+	border-radius: 10px;
+	background-color: white;
+	margin-top: 43px;
+	margin-bottom: 15px;
+	box-shadow: 4px 4px 4px lightgray;
+}
+
+.login_contents {
+	margin: 0 auto;
+	margin-top: 55px;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: 40px;
+}
+
+.formbox {
+	border: 1px solid #dfdfdf;
+	padding: 5px;
+	color: #999;
+	background: #fff;
+	width: 310px;
+	height: 16px;
+}
+
+
+label {
+	display: inline-block;
+	font-size: 16px;
+}
+
+.mail {
+	text-align: left;
+	margin: 25px;
+}
+
+.password {
+	text-align: left;
+	margin: 25px;
+}
+
+
+.checkbox {
+	margin-left: 25px;
+}
+
+
+.login {
+	margin: 28px 25px;
+	font-size: 16px;
+	text-align: center;
+}
+
+.login_button {
+	text-align: center;
+	font-size: 14px;
+	color: white;
+	background-color: #31A263;
+	border: 1px solid lightgray;
+	border-bottom: 2px solid gray;
+	border-radius: 5px;
+	width: 195px;
+	height: 35px;
+}
+
+
+footer {
+	color: gray;
+	text-align: center;
+	font-size: 13px;
+	background-color: white;
+	width: 100%;
+	height: 40px;
+	line-height: 40px;
+	border-top: 2px solid lightgray;
+}
+
+
+
+
+
+
+
+
+
+
+/* login_error.phpのCSS*/
+
+
+.login_error_contents {
+	margin: 0 auto;
+	margin-top: 55px;
+	margin-left: 25px;
+	margin-right: 25px;
+	margin-bottom: 40px;
+}
+
+.caution {
+	font-size: 15px;
+	text-align: center;
+	color: #CC3333;
+	background-color: #f5b2b2;
+	line-height: 33px;
+	margin-bottom: 26px;
+}
+
+.re-login {
+	margin: 28px 25px;
+	font-size: 16px;
+	text-align: center;
+}
+
+.re-login_button {
+	text-align: center;
+	font-size: 14px;
+	color: white;
+	background-color: #31A263;
+	border: 1px solid lightgray;
+	border-bottom: 2px solid gray;
+	border-radius: 5px;
+	width: 195px;
+	height: 35px;
+
+}
+
+.re-form {
+	margin: 0 auto;
+	width: 423px;
+	height: 376px;
+	border: 2px solid lightgray;
+	border-radius: 10px;
+	background-color: white;
+	margin-top: 43px;
+	margin-bottom: 15px;
+	padding-bottom: 50px;
+	box-shadow: 4px 4px 4px lightgray;
+}
